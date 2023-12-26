@@ -1,0 +1,31 @@
+.banner {
+  background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+.tim img {
+  width: 100px;
+  border: 10px solid #cccc;
+}
+.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #333;
+  color: white;
+  line-height: 40px;
+}
+.client img {
+  height: auto;
+  max-height: 50px;
+}
+.kontak {
+  background: url(https://wallpaperaccess.com/full/1867010.jpg) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
